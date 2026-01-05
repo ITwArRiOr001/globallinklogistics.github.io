@@ -24,15 +24,18 @@ Core Features
 Technology Stack
 ----------------
 Frontend:
+
 • HTML5 for semantic structure  
 • CSS3 for custom responsive styling  
 • Vanilla JavaScript for interactivity and UI behavior  
 
 Automation and Resources:
+
 • Python (ReportLab) for generating professional PDF documents  
 • Google Colab used for development and testing of PDF scripts  
 
 Hosting:
+
 • GitHub Pages for free, reliable static hosting  
 
 PDF Automation Overview
@@ -40,6 +43,7 @@ PDF Automation Overview
 This repository includes Python scripts used to generate downloadable logistics checklists in PDF format. These scripts demonstrate how automation can be applied to create standardized, professional documentation for logistics operations.
 
 Included PDFs:
+
 • Export Checklist – Fresh Produce to Gulf Countries  
 • Import Checklist – Goods from China to India  
 
