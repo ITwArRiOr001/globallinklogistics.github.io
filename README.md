@@ -49,35 +49,33 @@ Included PDFs:
 
 The scripts are provided for demonstration, academic evaluation, and future scalability purposes.
 
-Project Structure
------------------
 GlobalLinkLogistics-Portfolio/
 │
-├── index.html            Homepage
-├── services.html         Services and FAQs
-├── products.html         Product categories
-├── calculators.html      Interactive calculators
-├── inquiry.html          Multi-step inquiry and lead form
-├── about.html            Company overview and values
-├── resources.html        Downloadable guides and PDFs
-├── contact.html          Contact information and channels
+├── index.html                  Homepage
+├── services.html               Services and FAQs
+├── products.html               Product categories
+├── calculators.html            Interactive calculators
+├── inquiry.html                Multi-step inquiry and lead form
+├── about.html                  Company overview and values
+├── resources.html              Downloadable guides and PDFs
+├── contact.html                Contact information and channels
 │
-├── style.css             Main stylesheet
-├── script.js             Navigation, UI interactions, calculators
-├── modal.js              Modal and form logic (if separated)
+├── style.css                   Main stylesheet
+├── script.js                   Navigation, UI interactions, calculators
+├── modal.js                    Modal and form logic (if separated)
 │
-├── images/               Website images, icons, badges
-│   └── screenshot-home.png
+├── images/
+│   └── screenshot-home.png     Homepage preview image
 │
-├── downloads/            Generated PDF resources
-│   ├── export-checklist.pdf
-│   └── import-checklist.pdf
+├── downloads/
+│   ├── export-checklist.pdf    Export checklist (Gulf countries)
+│   └── import-checklist.pdf    Import checklist (China to India)
 │
-├── pdf-generation/       Python automation scripts
-│   ├── generate_export_pdf.py
-│   └── generate_import_pdf.py
+├── pdf-generation/
+│   ├── generate_export_pdf.py  Python script for export PDF
+│   └── generate_import_pdf.py  Python script for import PDF
 │
-└── README.md             Project documentation
+└── README.md                   Project documentation
 
 Design and UX Philosophy
 ------------------------
